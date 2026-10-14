@@ -1,0 +1,59 @@
+{
+  "version": "1.2",
+  "assets": [
+    {
+      "file": "iphone-online-play.png",
+      "width": 1320,
+      "height": 2868,
+      "sha256": "1ed22386140bf22c2b3531d130252c665b1134b8fe8864d75ac60e088e5883ef"
+    },
+    {
+      "file": "iphone-streak-badges.png",
+      "width": 1320,
+      "height": 2868,
+      "sha256": "2436844eab1179fdeb3cc685b200f97c5297da35bbb1600bfd5976933b98218d"
+    },
+    {
+      "file": "iphone-placement-badges.png",
+      "width": 1320,
+      "height": 2868,
+      "sha256": "08823d9990b10213bfde1002c77ff7d432cb3569a30e4634d722aea1dcdb1ef6"
+    },
+    {
+      "file": "ipad-online-play.png",
+      "width": 2064,
+      "height": 2752,
+      "sha256": "bf4c6fb85c9a69bf567219ae3d3abe585daba1e21296f777524ba1195d6821a2"
+    },
+    {
+      "file": "ipad-streak-badges.png",
+      "width": 2064,
+      "height": 2752,
+      "sha256": "041441cdd1debb34ce2da8de30d74b1064369cde38c414309dbb02296aed75dd"
+    },
+    {
+      "file": "ipad-placement-badges.png",
+      "width": 2064,
+      "height": 2752,
+      "sha256": "db1210221e10a719bbd20a34302bc9398c131e1a7288395207255db47fec308a"
+    },
+    {
+      "file": "header.png",
+      "width": 5244,
+      "height": 2950,
+      "sha256": "008a51e54b60ef677f903f4fd5f3bb0a3f174aac4256b96b411248e93c22474f"
+    },
+    {
+      "file": "search.png",
+      "width": 1920,
+      "height": 1280,
+      "sha256": "15abadc965d5cc254bb01de26ce0ac364b45a04ba1fa97d75436cdd5e2f298f2"
+    },
+    {
+      "file": "app-icon.png",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "2ca16166c33f99585650b7e9ba9beb0e3bd2412fc6f124bb08004dcaea5ed48f"
+    }
+  ]
+}
