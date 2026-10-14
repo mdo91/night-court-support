@@ -4,7 +4,13 @@ Night Court: Basketball Arcade brings a street basketball court to iPhone and iP
 
 Planned publication window: **November 4–11, 2026**, subject to App Review approval. This is a planned update, not an announcement that version 1.2 is already available.
 
-[Download the complete marketing kit](https://raw.githubusercontent.com/mdo91/night-court-support/main/press-kit/1.2/night-court-1.2-press-kit.zip)
+[Download screenshots and artwork](https://raw.githubusercontent.com/mdo91/night-court-support/main/press-kit/1.2/night-court-1.2-press-kit.zip)
+
+## Gameplay recording
+
+[Watch the 90-second gameplay preview](https://mdo91.github.io/night-court-support/press-kit/1.2/arcade-demo.html) · [Download the MP4](https://raw.githubusercontent.com/mdo91/night-court-support/main/press-kit/1.2/night-court-arcade-demo.mp4)
+
+Recorded on a physical iPhone and iPad, the video shows highlights from a complete Game Center match, the actual badges gallery, and offline practice. The edit does not fabricate scores or badge unlocks. This is a preview of the pending 1.2 update, not an announcement of an Apple Arcade selection.
 
 ## Live one-on-one play
 
